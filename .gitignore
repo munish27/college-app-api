@@ -1,0 +1,4 @@
+/.env
+/new
+/node_modules
+/service-account-file.json
